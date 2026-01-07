@@ -1,81 +1,27 @@
-# Mohammad Hessamuddin
-
-<a href="https://www.instagram.com/saifryen/" align="center">
-    <img src="https://media.giphy.com/media/xT9IgyaftFIcZNphcI/giphy.gif" width="100%" alt="Hi, I'm Ryen, I build an App using Java"/>
-</a>
+# 💫 About Me:
+💼 Currently working as a freelance developer<br><br>🤝 Open to collaborating with companies and teams<br><br>🧠 Learning backend development to grow as a full-stack engineer<br><br>💬 Ask me about frontend, UI/UX, and modern web development<br><br>⚡ Fun fact: I love turning complex ideas into simple, elegant experiences
 
 
-## **About**
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/md saif ryen) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/wishmaker1504) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saifryen) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/saifryen) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@codewithsaif) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hessam47.jmi@gmail.com) 
 
-**I am an aspiring Software Engineer👨‍💻, based in India, currently learning App🌐 Development and programming fundamentals while building⚒️ real-world projects.
-<br>
-Apart from Computer Science, I like travelling and Ice Cream**
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username= Md-Saif-Ryen&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user= Md-Saif-Ryen&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username= Md-Saif-Ryen&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## **Tech and Languages that I use**
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username= Md-Saif-Ryen&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=round-square&logo=HTML5&logoColor=white)](https://github.com/Md-Saif-Ryen)
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=round-square&logo=CSS3&logoColor=white)](https://github.com/Md-Saif-Ryen)
-[![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)](https://github.com/Md-Saif-Ryen)
-[	![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)](https://github.com/Md-Saif-Ryend)
-[![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)](https://github.com/Md-Saif-Ryen)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=round-square&logo=javascript&logoColor=black)](https://github.com/Md-Saif-Ryen)
-[![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](https://github.com/Md-Saif-Ryen)
-[![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/Md-Saif-Ryen)
-[![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)](https://github.com/Md-Saif-Ryen)
-[![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/Md-Saif-Ryen)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-## **Tools I use and prefer**
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username= Md-Saif-Ryen&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-[![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=round-square&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/download)
-[![Chrome](https://img.shields.io/badge/-Chrome-4285F4?style=round-square&logo=googlechrome&logoColor=white)](https://www.google.com/chrome/?brand=FKPE&gclid=Cj0KCQiApL2QBhC8ARIsAGMm-KE0Mx7VVef6uH0GG9du9eyx38fZgPnx3RMvt5ZuaayJhmouHyLgFDMaAqvTEALw_wcB&gclsrc=aw.ds)
-[![Git](https://img.shields.io/badge/-Git-F05032?style=round-square&logo=git&logoColor=white)](https://git-scm.com/downloads)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=round-square&logo=github&logoColor=white)](https://github.com/RocTanweer)
-[![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=round-square&logo=figma&logoColor=white)](https://www.figma.com/downloads/)
-[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com/studio)
+---
+[![](https://visitcount.itsvg.in/api?id= Md-Saif-Ryen&icon=0&color=2)](https://visitcount.itsvg.in)
 
-## **GitHub Stats**
-
-<p align="center">
-    <img  src="https://github-readme-stats.vercel.app/api?username=Md-Saif-Ryen&count_private=true&show_icons=true&title_color=05EBC5&bg_color=1E1926&text_color=EFEAFF&icon_color=6A43D6&hide_title=true%22%20alt=%22Roc%20Tanweer%27s%20GitHub%20stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Saif-Ryen&layout=compact&bg_color=1E1926&text_color=EFEAFF&hide_title=true&card_width=400" alt="Most Used Languages" />
-</p>
-
-<p align="center">
-</p>
-
- <details style="cursor:pointer;">
-    <summary>
-        <b>Useful Resources</b>
-    </summary>
-
-<a href="https://leetcode.com/">
-    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode" />
-</a>
-<a href="https://www.hackerearth.com/onboarding/">
-    <img src="Hhttps://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue" alt="HackerEarth" />
-</a>
-<a href="https://www.codechef.com/practice?itm_medium=navmenu&itm_campaign=practice">
-    <img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" alt="CodeChef" />
-</a>
-<a href="https://www.hackerrank.com/">
-    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank" />
-</a>
-  <a href="https://codeforces.com/">
-    <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="CodeForces" />
-</a>
-
-</details> 
-
-<details style="cursor:pointer;"> -->
-    <summary>
-        <b>Recent Blogs</b>
-    </summary>
-    <p><i>Coming Soon</i></p>
-</details> 
-
-## **Let's Connect**
-
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=round-square&logo=twitter&logoColor=white)](https://twitter.com/20del8018md)
-[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=round-square&logo=gmail&logoColor=white)](mailto:ks7046344@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/saifryen/)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=round-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-saif-b56976212/)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
